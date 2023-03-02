@@ -1,3 +1,6 @@
+*Quick user note- For the FlaskAPI when entering dates into the url for start and start/end,
+dates must be entered in this format YYYY-MM-DD.
+
 # sqlalchemy-challenge
 
 For this week's challenge it was decided that it has been too long since a vacation has been planned, it was also determined
