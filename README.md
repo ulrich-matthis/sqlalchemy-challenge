@@ -1,5 +1,5 @@
 *Quick user note- For the FlaskAPI when entering dates into the url for start and start/end,
-dates must be entered in this format YYYY-MM-DD.
+dates must be entered in this format YYYY-MM-DD. Temperatures are also listed min, avg, max for these searches.
 
 # sqlalchemy-challenge
 
